@@ -1,0 +1,3 @@
+Row,ela_conv_conv_prob,ela_curv_grad_norm_min,ela_curv_grad_norm_lq,ela_distr_skewness,ela_distr_number_of_peaks,ela_level_lda_qda_10,ela_level_lda_qda_25,ela_meta_lin_simple_adj_r2,ela_meta_quad_w_interact_adj_r2,ic_eps_max,ic_eps_ratio,nbc_nb_fitness_cor
+Z_{1},0.4112,-1.114,-0.6109,-0.0884,0.1734,0.2991,0.5045,0.3366,0.7153,-0.5869,-0.958,0.5799
+Z_{2},-0.1425,-0.5234,-0.0298,-0.1307,-0.1505,-0.3548,-0.189,-0.5261,-0.2203,-0.0265,-1.1826,-0.0686
